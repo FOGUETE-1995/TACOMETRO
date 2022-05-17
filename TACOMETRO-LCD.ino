@@ -1,5 +1,12 @@
 // C++ code
 //
+
+
+//IMPORTANTE: este código está configurado para a simulação na plataforma TINKERCAD apenas
+
+
+
+//
 //OS botões seguem a seguinte ordem de acordo com o posicionamento abaixo do LCD no esquema:  B1---B2---B3---B4
 #define B1 13 
 #define B2 12
